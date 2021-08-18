@@ -62,4 +62,6 @@ $ yarn run android
 $ yarn run ios
 ```
 
+You can also run the app using the Snack link - https://snack.expo.dev/@khushal87/streaminterviewreactnativeapp
+
 <a href="#top">Back to top</a>
